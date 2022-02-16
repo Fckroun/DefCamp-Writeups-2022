@@ -23,6 +23,6 @@ This CTF was hosted for 3 days but i didn't have enough time to go through all t
 Here are some detailed walkthroughs i made for tasks i solved:
 
 * [Web](https://github.com/Fckroun/DefCamp-Writeups-2022/tree/master/Web)
-* [Misc](https://github.com/Fckroun/DefCamp-Writeups-2022/tree/master/Web)
+* [Misc](https://github.com/Fckroun/DefCamp-Writeups-2022/tree/master/Misc)
 
 Made by Fckroun with <3
